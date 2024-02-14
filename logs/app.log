@@ -1,0 +1,142 @@
+2024-02-14 16:34:26,326 - INFO - root - Processed 3 pdf files
+2024-02-14 16:34:27,895 - INFO - sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: WhereIsAI/UAE-Large-V1
+2024-02-14 16:34:28,169 - WARNING - sentence_transformers.SentenceTransformer - No sentence-transformers model found with name WhereIsAI/UAE-Large-V1. Creating a new one with MEAN pooling.
+2024-02-14 16:34:29,063 - INFO - sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2024-02-14 16:34:29,608 - INFO - chromadb.telemetry.product.posthog - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-02-14 16:34:33,532 - INFO - utils.vector_db - Vector database created with 5 documents.
+2024-02-14 21:57:23,768 - INFO - sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: WhereIsAI/UAE-Large-V1
+2024-02-14 21:57:24,411 - WARNING - sentence_transformers.SentenceTransformer - No sentence-transformers model found with name WhereIsAI/UAE-Large-V1. Creating a new one with MEAN pooling.
+2024-02-14 21:57:27,815 - INFO - sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2024-02-14 21:57:28,525 - INFO - chromadb.telemetry.product.posthog - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-02-14 21:57:29,456 - INFO - httpx - HTTP Request: GET http://127.0.0.1:7860/startup-events "HTTP/1.1 200 OK"
+2024-02-14 21:57:29,517 - INFO - httpx - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-02-14 21:57:29,592 - INFO - httpx - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-02-14 21:57:30,125 - INFO - httpx - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-02-14 21:57:30,292 - INFO - httpx - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-02-14 21:57:31,023 - INFO - httpx - HTTP Request: POST https://api.gradio.app/gradio-initiated-analytics/ "HTTP/1.1 200 OK"
+2024-02-14 21:57:31,694 - INFO - httpx - HTTP Request: POST https://api.gradio.app/gradio-launched-telemetry/ "HTTP/1.1 200 OK"
+2024-02-14 22:02:41,236 - ERROR - root - Error saving emails to Excel: Cannot save file into a non-existent directory: 'Email_data'
+2024-02-14 22:02:41,237 - ERROR - root - Error fetching and saving emails: Error saving emails to Excel: Cannot save file into a non-existent directory: 'Email_data'
+2024-02-14 22:04:34,295 - INFO - sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: WhereIsAI/UAE-Large-V1
+2024-02-14 22:04:34,883 - WARNING - sentence_transformers.SentenceTransformer - No sentence-transformers model found with name WhereIsAI/UAE-Large-V1. Creating a new one with MEAN pooling.
+2024-02-14 22:04:35,929 - INFO - sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2024-02-14 22:04:36,266 - INFO - chromadb.telemetry.product.posthog - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-02-14 22:04:36,675 - INFO - httpx - HTTP Request: GET http://127.0.0.1:7860/startup-events "HTTP/1.1 200 OK"
+2024-02-14 22:04:36,728 - INFO - httpx - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-02-14 22:04:36,873 - INFO - httpx - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-02-14 22:04:37,322 - INFO - httpx - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-02-14 22:04:37,526 - INFO - httpx - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-02-14 22:04:38,232 - INFO - httpx - HTTP Request: POST https://api.gradio.app/gradio-initiated-analytics/ "HTTP/1.1 200 OK"
+2024-02-14 22:04:38,717 - INFO - httpx - HTTP Request: POST https://api.gradio.app/gradio-launched-telemetry/ "HTTP/1.1 200 OK"
+2024-02-14 22:05:06,355 - ERROR - root - Error saving emails to Excel: Cannot save file into a non-existent directory: 'Email_data'
+2024-02-14 22:05:06,356 - ERROR - root - Error fetching and saving emails: Error saving emails to Excel: Cannot save file into a non-existent directory: 'Email_data'
+2024-02-14 22:06:23,467 - INFO - sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: WhereIsAI/UAE-Large-V1
+2024-02-14 22:06:24,062 - WARNING - sentence_transformers.SentenceTransformer - No sentence-transformers model found with name WhereIsAI/UAE-Large-V1. Creating a new one with MEAN pooling.
+2024-02-14 22:06:25,198 - INFO - sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2024-02-14 22:06:25,525 - INFO - chromadb.telemetry.product.posthog - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-02-14 22:06:25,758 - INFO - httpx - HTTP Request: GET http://127.0.0.1:7860/startup-events "HTTP/1.1 200 OK"
+2024-02-14 22:06:25,775 - INFO - httpx - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-02-14 22:06:26,471 - INFO - httpx - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-02-14 22:06:26,474 - INFO - httpx - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-02-14 22:06:26,824 - INFO - httpx - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-02-14 22:06:27,940 - INFO - httpx - HTTP Request: POST https://api.gradio.app/gradio-launched-telemetry/ "HTTP/1.1 200 OK"
+2024-02-14 22:06:27,943 - INFO - httpx - HTTP Request: POST https://api.gradio.app/gradio-initiated-analytics/ "HTTP/1.1 200 OK"
+2024-02-14 22:06:58,580 - ERROR - root - Error loading emails: [Errno 2] No such file or directory: 'emails.xlsx'
+2024-02-14 22:09:13,613 - INFO - sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: WhereIsAI/UAE-Large-V1
+2024-02-14 22:09:14,213 - WARNING - sentence_transformers.SentenceTransformer - No sentence-transformers model found with name WhereIsAI/UAE-Large-V1. Creating a new one with MEAN pooling.
+2024-02-14 22:09:15,758 - INFO - sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2024-02-14 22:09:16,105 - INFO - chromadb.telemetry.product.posthog - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-02-14 22:09:16,339 - INFO - httpx - HTTP Request: GET http://127.0.0.1:7860/startup-events "HTTP/1.1 200 OK"
+2024-02-14 22:09:16,354 - INFO - httpx - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-02-14 22:09:16,727 - INFO - httpx - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-02-14 22:09:16,828 - INFO - httpx - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-02-14 22:09:17,384 - INFO - httpx - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-02-14 22:09:18,111 - INFO - httpx - HTTP Request: POST https://api.gradio.app/gradio-initiated-analytics/ "HTTP/1.1 200 OK"
+2024-02-14 22:09:23,452 - INFO - httpx - HTTP Request: POST https://api.gradio.app/gradio-launched-telemetry/ "HTTP/1.1 200 OK"
+2024-02-14 22:09:34,424 - ERROR - root - Error loading emails: [Errno 21] Is a directory: 'Data'
+2024-02-14 22:09:35,731 - ERROR - root - Error loading emails: [Errno 21] Is a directory: 'Data'
+2024-02-14 22:13:15,986 - INFO - sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: WhereIsAI/UAE-Large-V1
+2024-02-14 22:13:16,267 - WARNING - sentence_transformers.SentenceTransformer - No sentence-transformers model found with name WhereIsAI/UAE-Large-V1. Creating a new one with MEAN pooling.
+2024-02-14 22:13:17,704 - INFO - sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2024-02-14 22:13:18,036 - INFO - chromadb.telemetry.product.posthog - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-02-14 22:13:18,262 - INFO - httpx - HTTP Request: GET http://127.0.0.1:7860/startup-events "HTTP/1.1 200 OK"
+2024-02-14 22:13:18,278 - INFO - httpx - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-02-14 22:13:18,841 - INFO - httpx - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-02-14 22:13:18,991 - INFO - httpx - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-02-14 22:13:19,318 - INFO - httpx - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-02-14 22:13:20,233 - INFO - httpx - HTTP Request: POST https://api.gradio.app/gradio-initiated-analytics/ "HTTP/1.1 200 OK"
+2024-02-14 22:13:20,362 - INFO - httpx - HTTP Request: POST https://api.gradio.app/gradio-launched-telemetry/ "HTTP/1.1 200 OK"
+2024-02-14 22:21:10,897 - INFO - sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: WhereIsAI/UAE-Large-V1
+2024-02-14 22:21:11,116 - WARNING - sentence_transformers.SentenceTransformer - No sentence-transformers model found with name WhereIsAI/UAE-Large-V1. Creating a new one with MEAN pooling.
+2024-02-14 22:21:12,170 - INFO - sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2024-02-14 22:21:12,503 - INFO - chromadb.telemetry.product.posthog - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-02-14 22:21:12,575 - ERROR - root - Error creating interface: module 'gradio' has no attribute 'Page'
+2024-02-14 22:21:12,575 - ERROR - root - Error launching application: module 'gradio' has no attribute 'Page'
+2024-02-14 22:30:39,401 - INFO - sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: WhereIsAI/UAE-Large-V1
+2024-02-14 22:30:39,644 - WARNING - sentence_transformers.SentenceTransformer - No sentence-transformers model found with name WhereIsAI/UAE-Large-V1. Creating a new one with MEAN pooling.
+2024-02-14 22:30:40,697 - INFO - sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2024-02-14 22:30:41,017 - INFO - chromadb.telemetry.product.posthog - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-02-14 22:30:41,091 - ERROR - root - Error creating interface: load() missing 1 required positional argument: 'name'
+2024-02-14 22:30:41,091 - ERROR - root - Error launching application: load() missing 1 required positional argument: 'name'
+2024-02-14 22:31:44,766 - INFO - sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: WhereIsAI/UAE-Large-V1
+2024-02-14 22:31:44,983 - WARNING - sentence_transformers.SentenceTransformer - No sentence-transformers model found with name WhereIsAI/UAE-Large-V1. Creating a new one with MEAN pooling.
+2024-02-14 22:31:46,001 - INFO - sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2024-02-14 22:31:46,320 - INFO - chromadb.telemetry.product.posthog - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-02-14 22:31:46,394 - ERROR - root - Error creating interface: Either `src` parameter must be provided, or `name` must be formatted as {src}/{repo name}
+2024-02-14 22:31:46,394 - ERROR - root - Error launching application: Either `src` parameter must be provided, or `name` must be formatted as {src}/{repo name}
+2024-02-14 22:32:08,030 - INFO - sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: WhereIsAI/UAE-Large-V1
+2024-02-14 22:32:08,253 - WARNING - sentence_transformers.SentenceTransformer - No sentence-transformers model found with name WhereIsAI/UAE-Large-V1. Creating a new one with MEAN pooling.
+2024-02-14 22:32:09,306 - INFO - sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2024-02-14 22:32:09,635 - INFO - chromadb.telemetry.product.posthog - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-02-14 22:32:09,709 - ERROR - root - Error creating interface: Either `src` parameter must be provided, or `name` must be formatted as {src}/{repo name}
+2024-02-14 22:32:09,709 - ERROR - root - Error launching application: Either `src` parameter must be provided, or `name` must be formatted as {src}/{repo name}
+2024-02-14 22:37:55,054 - INFO - sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: WhereIsAI/UAE-Large-V1
+2024-02-14 22:37:55,280 - WARNING - sentence_transformers.SentenceTransformer - No sentence-transformers model found with name WhereIsAI/UAE-Large-V1. Creating a new one with MEAN pooling.
+2024-02-14 22:37:56,710 - INFO - sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2024-02-14 22:37:57,109 - INFO - chromadb.telemetry.product.posthog - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-02-14 22:37:57,191 - ERROR - root - Error creating interface: Interface.__init__() missing 3 required positional arguments: 'fn', 'inputs', and 'outputs'
+2024-02-14 22:37:57,191 - ERROR - root - Error launching application: Interface.__init__() missing 3 required positional arguments: 'fn', 'inputs', and 'outputs'
+2024-02-14 23:09:42,753 - INFO - sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: WhereIsAI/UAE-Large-V1
+2024-02-14 23:09:42,967 - WARNING - sentence_transformers.SentenceTransformer - No sentence-transformers model found with name WhereIsAI/UAE-Large-V1. Creating a new one with MEAN pooling.
+2024-02-14 23:09:44,149 - INFO - sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2024-02-14 23:09:44,535 - INFO - chromadb.telemetry.product.posthog - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-02-14 23:09:44,779 - INFO - httpx - HTTP Request: GET http://127.0.0.1:7860/startup-events "HTTP/1.1 200 OK"
+2024-02-14 23:09:44,802 - INFO - httpx - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-02-14 23:09:45,123 - INFO - httpx - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-02-14 23:09:45,329 - INFO - httpx - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-02-14 23:09:45,854 - INFO - httpx - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-02-14 23:09:46,528 - INFO - httpx - HTTP Request: POST https://api.gradio.app/gradio-initiated-analytics/ "HTTP/1.1 200 OK"
+2024-02-14 23:09:46,943 - INFO - httpx - HTTP Request: POST https://api.gradio.app/gradio-launched-telemetry/ "HTTP/1.1 200 OK"
+2024-02-14 23:39:18,846 - INFO - sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: WhereIsAI/UAE-Large-V1
+2024-02-14 23:39:19,444 - WARNING - sentence_transformers.SentenceTransformer - No sentence-transformers model found with name WhereIsAI/UAE-Large-V1. Creating a new one with MEAN pooling.
+2024-02-14 23:39:20,634 - INFO - sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2024-02-14 23:39:21,027 - INFO - chromadb.telemetry.product.posthog - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-02-14 23:39:21,266 - INFO - httpx - HTTP Request: GET http://127.0.0.1:7860/startup-events "HTTP/1.1 200 OK"
+2024-02-14 23:39:21,281 - INFO - httpx - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-02-14 23:39:21,648 - INFO - httpx - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-02-14 23:39:21,797 - INFO - httpx - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-02-14 23:39:22,414 - INFO - httpx - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-02-14 23:39:23,251 - INFO - httpx - HTTP Request: POST https://api.gradio.app/gradio-initiated-analytics/ "HTTP/1.1 200 OK"
+2024-02-14 23:39:23,491 - INFO - httpx - HTTP Request: POST https://api.gradio.app/gradio-launched-telemetry/ "HTTP/1.1 200 OK"
+2024-02-14 23:43:23,522 - INFO - sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: WhereIsAI/UAE-Large-V1
+2024-02-14 23:43:24,114 - WARNING - sentence_transformers.SentenceTransformer - No sentence-transformers model found with name WhereIsAI/UAE-Large-V1. Creating a new one with MEAN pooling.
+2024-02-14 23:43:25,629 - INFO - sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2024-02-14 23:43:25,945 - INFO - chromadb.telemetry.product.posthog - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-02-14 23:43:26,180 - INFO - httpx - HTTP Request: GET http://127.0.0.1:7860/startup-events "HTTP/1.1 200 OK"
+2024-02-14 23:43:26,193 - INFO - httpx - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-02-14 23:43:26,525 - INFO - httpx - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-02-14 23:43:26,704 - INFO - httpx - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-02-14 23:43:27,195 - INFO - httpx - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-02-14 23:43:27,969 - INFO - httpx - HTTP Request: POST https://api.gradio.app/gradio-initiated-analytics/ "HTTP/1.1 200 OK"
+2024-02-14 23:43:28,144 - INFO - httpx - HTTP Request: POST https://api.gradio.app/gradio-launched-telemetry/ "HTTP/1.1 200 OK"
+2024-02-14 23:44:20,737 - INFO - sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: WhereIsAI/UAE-Large-V1
+2024-02-14 23:44:21,027 - WARNING - sentence_transformers.SentenceTransformer - No sentence-transformers model found with name WhereIsAI/UAE-Large-V1. Creating a new one with MEAN pooling.
+2024-02-14 23:44:22,174 - INFO - sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2024-02-14 23:44:22,431 - INFO - chromadb.telemetry.product.posthog - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-02-14 23:44:22,711 - INFO - httpx - HTTP Request: GET http://127.0.0.1:7860/startup-events "HTTP/1.1 200 OK"
+2024-02-14 23:44:22,727 - INFO - httpx - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-02-14 23:44:23,042 - INFO - httpx - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-02-14 23:44:23,233 - INFO - httpx - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-02-14 23:44:23,833 - INFO - httpx - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-02-14 23:44:24,468 - INFO - httpx - HTTP Request: POST https://api.gradio.app/gradio-initiated-analytics/ "HTTP/1.1 200 OK"
+2024-02-14 23:44:24,651 - INFO - httpx - HTTP Request: POST https://api.gradio.app/gradio-launched-telemetry/ "HTTP/1.1 200 OK"
