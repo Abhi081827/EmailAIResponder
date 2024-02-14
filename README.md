@@ -51,8 +51,8 @@ Run the `interface.py` script to start the Gradio web application. This interfac
 4. Run `interface.py` to start the Gradio interface and begin automating your email responses.
 
 ## Links
-Visit [Ollama] (https://github.com/ollama/ollama) to learn more.
-Visit [Langchain] (https://www.langchain.com/) to learn more.
+1. Visit [Ollama] (https://github.com/ollama/ollama) to learn more.
+2. Visit [Langchain] (https://www.langchain.com/) to learn more.
 
 
 ## Contribution
