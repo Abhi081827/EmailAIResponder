@@ -1,5 +1,7 @@
 
 # Email Response Automation Application
+### Description
+In the Email Response Automation Application, sentiment classification is powered by the "MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli" model for zero-shot classification. This state-of-the-art model excels in understanding and categorizing sentiments within the email content. By leveraging the capabilities of DeBERTa-v3, the application ensures accurate sentiment analysis, enabling it to generate responses that align with the emotional tone of incoming messages. This integration highlights the commitment to employing advanced natural language processing models for nuanced and context-aware communication in the email automation process.
 
 ## Overview
 This application is designed to automate the process of reading and responding to emails. It uses machine learning models to analyze the content of the emails and generate appropriate responses. The application is configurable, allowing users to set up custom response prompts through the `config.py` file.
@@ -47,6 +49,11 @@ Run the `interface.py` script to start the Gradio web application. This interfac
 2. Set up your email data source and configure the `config.py` file with your custom prompts.
 3. Use `ingest.py` to create the vector database.
 4. Run `interface.py` to start the Gradio interface and begin automating your email responses.
+
+## Links
+Visit [Ollama] (https://github.com/ollama/ollama) to learn more.
+Visit [Langchain] (https://www.langchain.com/) to learn more.
+
 
 ## Contribution
 
