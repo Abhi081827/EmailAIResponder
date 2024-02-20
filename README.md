@@ -6,8 +6,6 @@ In the Email Response Automation Application, sentiment classification is powere
 ## Overview
 This application is designed to automate the process of reading and responding to emails. It uses machine learning models to analyze the content of the emails and generate appropriate responses. The application is configurable, allowing users to set up custom response prompts through the `config.py` file.
 
-![Flow Diagram](images/diagram.png)
-
 ![UI Snapshot](images/UI.png) 
 
 ## Code Structure
